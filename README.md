@@ -1,3 +1,4 @@
 # DiabetesPredictionModelComparison
 
-Analysis of the DataSet Conaining Prices for a Sample of 1000 Australian Houses. DataSet Source can be found @ https://www.kaggle.com/datasets/thedevastator/australian-housing-data-1000-properties-sampled
+Analysis of the DataSet Conaining Data Regarding Diabetes Diagnoses for a Sample of 768 Women of at Least 21 Years of Age. 
+DataSet Source can be found @ https://www.kaggle.com/datasets/whenamancodes/predict-diabities
